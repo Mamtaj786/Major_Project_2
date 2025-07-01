@@ -1,0 +1,895 @@
+[2025-03-22 10:30:46] Upload attempt by user: 16
+[2025-03-22 10:30:46] Post submission data: Array
+(
+    [userId] => 16
+    [caption] => 
+    [FILES] => 0
+)
+
+[2025-03-22 10:30:46] Files data: Array
+(
+)
+
+[2025-03-22 10:30:46] Binding parameters for SQL insert: Array
+(
+    [userId] => 16
+    [caption] => 
+    [fileUrl] => 
+    [fileType] => 
+)
+
+[2025-03-22 10:30:47] Post created successfully: Array
+(
+    [postId] => 43
+)
+
+[2025-03-22 10:37:42] Upload attempt by user: 16
+[2025-03-22 10:37:42] Post submission data: Array
+(
+    [userId] => 16
+    [caption] => 
+    [FILES] => 1
+)
+
+[2025-03-22 10:37:42] Files data: Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => 
+                )
+
+            [full_path] => Array
+                (
+                    [0] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 0
+                )
+
+        )
+
+)
+
+[2025-03-22 10:37:42] No file uploaded, creating text-only post
+[2025-03-22 10:37:42] Binding parameters for SQL insert: Array
+(
+    [userId] => 16
+    [caption] => 
+    [fileUrl] => 
+    [fileType] => 
+)
+
+[2025-03-22 10:37:42] Post created successfully: Array
+(
+    [postId] => 44
+)
+
+[2025-03-22 10:39:31] Upload attempt by user: 16
+[2025-03-22 10:39:31] Post submission data: Array
+(
+    [userId] => 16
+    [caption] => hello world
+    [FILES] => 1
+)
+
+[2025-03-22 10:39:31] Files data: Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => 
+                )
+
+            [full_path] => Array
+                (
+                    [0] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 0
+                )
+
+        )
+
+)
+
+[2025-03-22 10:39:31] No file uploaded, creating text-only post
+[2025-03-22 10:39:31] Binding parameters for SQL insert: Array
+(
+    [userId] => 16
+    [caption] => hello world
+    [fileUrl] => 
+    [fileType] => 
+)
+
+[2025-03-22 10:39:31] Post created successfully: Array
+(
+    [postId] => 45
+)
+
+[2025-05-11 15:46:19] Upload attempt by user: 28
+[2025-05-11 15:46:19] Post submission data: Array
+(
+    [userId] => 28
+    [caption] => Happy Mother's Day
+    [FILES] => 1
+)
+
+[2025-05-11 15:46:19] Files data: Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => 1000207915.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => 1000207915.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\phpE6EF.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 42918
+                )
+
+        )
+
+)
+
+[2025-05-11 15:46:19] Processing file from form submission: 1000207915.jpg
+[2025-05-11 15:46:19] Processing file upload: Array
+(
+    [name] => 1000207915.jpg
+    [type] => image/jpeg
+    [size] => 42918
+)
+
+[2025-05-11 15:46:19] File MIME type: image/jpeg
+[2025-05-11 15:46:19] Attempting to move uploaded file to: uploads/6820aa2b53ed5_1000207915.jpg
+[2025-05-11 15:46:19] File uploaded successfully: uploads/6820aa2b53ed5_1000207915.jpg
+[2025-05-11 15:46:19] Binding parameters for SQL insert: Array
+(
+    [userId] => 28
+    [caption] => Happy Mother's Day
+    [fileUrl] => uploads/6820aa2b53ed5_1000207915.jpg
+    [fileType] => image/jpeg
+)
+
+[2025-05-11 15:46:19] Post created successfully: Array
+(
+    [postId] => 46
+)
+
+[2025-05-14 09:02:30] Upload attempt by user: 30
+[2025-05-14 09:02:30] Post submission data: Array
+(
+    [userId] => 30
+    [caption] => today
+    [FILES] => 1
+)
+
+[2025-05-14 09:02:30] Files data: Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => fb877a07-c2ef-4220-beb2-3a72c5697e35.pdf
+                )
+
+            [full_path] => Array
+                (
+                    [0] => fb877a07-c2ef-4220-beb2-3a72c5697e35.pdf
+                )
+
+            [type] => Array
+                (
+                    [0] => application/pdf
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\php4771.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 31457280
+                )
+
+        )
+
+)
+
+[2025-05-14 09:02:30] Processing file from form submission: fb877a07-c2ef-4220-beb2-3a72c5697e35.pdf
+[2025-05-14 09:02:30] Processing file upload: Array
+(
+    [name] => fb877a07-c2ef-4220-beb2-3a72c5697e35.pdf
+    [type] => application/pdf
+    [size] => 31457280
+)
+
+[2025-05-14 09:02:30] File MIME type: application/pdf
+[2025-05-14 09:02:30] Attempting to move uploaded file to: uploads/682440060fd69_fb877a07-c2ef-4220-beb2-3a72c5697e35.pdf
+[2025-05-14 09:02:30] File uploaded successfully: uploads/682440060fd69_fb877a07-c2ef-4220-beb2-3a72c5697e35.pdf
+[2025-05-14 09:02:30] Binding parameters for SQL insert: Array
+(
+    [userId] => 30
+    [caption] => today
+    [fileUrl] => uploads/682440060fd69_fb877a07-c2ef-4220-beb2-3a72c5697e35.pdf
+    [fileType] => application/pdf
+)
+
+[2025-05-14 09:02:30] Post created successfully: Array
+(
+    [postId] => 47
+)
+
+[2025-06-21 07:05:47] Upload attempt by user: 26
+[2025-06-21 07:05:47] Post submission data: Array
+(
+    [userId] => 26
+    [caption] => heelo
+    [FILES] => 1
+)
+
+[2025-06-21 07:05:47] Files data: Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => 
+                )
+
+            [full_path] => Array
+                (
+                    [0] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 0
+                )
+
+        )
+
+)
+
+[2025-06-21 07:05:47] No file uploaded, creating text-only post
+[2025-06-21 07:05:47] Binding parameters for SQL insert: Array
+(
+    [userId] => 26
+    [caption] => heelo
+    [fileUrl] => 
+    [fileType] => 
+)
+
+[2025-06-21 07:05:47] Post created successfully: Array
+(
+    [postId] => 48
+)
+
+[2025-06-21 07:11:27] Upload attempt by user: 26
+[2025-06-21 07:11:27] Post submission data: Array
+(
+    [userId] => 26
+    [caption] => Hello
+    [FILES] => 1
+)
+
+[2025-06-21 07:11:27] Files data: Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => International_Yoga_Day_2025.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => International_Yoga_Day_2025.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\php114A.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 58602
+                )
+
+        )
+
+)
+
+[2025-06-21 07:11:27] Processing file from form submission: International_Yoga_Day_2025.jpg
+[2025-06-21 07:11:27] Processing file upload: Array
+(
+    [name] => International_Yoga_Day_2025.jpg
+    [type] => image/jpeg
+    [size] => 58602
+)
+
+[2025-06-21 07:11:27] File MIME type: image/webp
+[2025-06-21 07:11:27] Attempting to move uploaded file to: uploads/68563eff5eb20_International_Yoga_Day_2025.jpg
+[2025-06-21 07:11:27] File uploaded successfully: uploads/68563eff5eb20_International_Yoga_Day_2025.jpg
+[2025-06-21 07:11:27] Binding parameters for SQL insert: Array
+(
+    [userId] => 26
+    [caption] => Hello
+    [fileUrl] => uploads/68563eff5eb20_International_Yoga_Day_2025.jpg
+    [fileType] => image/webp
+)
+
+[2025-06-21 07:11:27] Post created successfully: Array
+(
+    [postId] => 49
+)
+
+[2025-06-21 07:28:25] Upload attempt by user: 26
+[2025-06-21 07:28:25] Post submission data: Array
+(
+    [userId] => 26
+    [caption] => how are you
+    [FILES] => 1
+)
+
+[2025-06-21 07:28:25] Files data: Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => Screenshot 2025-06-14 112548.png
+                )
+
+            [full_path] => Array
+                (
+                    [0] => Screenshot 2025-06-14 112548.png
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\php9BDF.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 348776
+                )
+
+        )
+
+)
+
+[2025-06-21 07:28:25] Processing file from form submission: Screenshot 2025-06-14 112548.png
+[2025-06-21 07:28:25] Processing file upload: Array
+(
+    [name] => Screenshot 2025-06-14 112548.png
+    [type] => image/png
+    [size] => 348776
+)
+
+[2025-06-21 07:28:25] File MIME type: image/png
+[2025-06-21 07:28:25] Attempting to move uploaded file to: uploads/685642f9c32ad_Screenshot_2025-06-14_112548.png
+[2025-06-21 07:28:25] File uploaded successfully: uploads/685642f9c32ad_Screenshot_2025-06-14_112548.png
+[2025-06-21 07:28:25] Binding parameters for SQL insert: Array
+(
+    [userId] => 26
+    [caption] => how are you
+    [fileUrl] => uploads/685642f9c32ad_Screenshot_2025-06-14_112548.png
+    [fileType] => image/png
+)
+
+[2025-06-21 07:28:25] Post created successfully: Array
+(
+    [postId] => 50
+)
+
+[2025-06-21 07:30:32] Upload attempt by user: 26
+[2025-06-21 07:30:32] Post submission data: Array
+(
+    [userId] => 26
+    [caption] => resume
+    [FILES] => 1
+)
+
+[2025-06-21 07:30:32] Files data: Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => Mamtaj Yeasmin  539_merged.pdf
+                )
+
+            [full_path] => Array
+                (
+                    [0] => Mamtaj Yeasmin  539_merged.pdf
+                )
+
+            [type] => Array
+                (
+                    [0] => application/pdf
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\php8948.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 4325625
+                )
+
+        )
+
+)
+
+[2025-06-21 07:30:32] Processing file from form submission: Mamtaj Yeasmin  539_merged.pdf
+[2025-06-21 07:30:32] Processing file upload: Array
+(
+    [name] => Mamtaj Yeasmin  539_merged.pdf
+    [type] => application/pdf
+    [size] => 4325625
+)
+
+[2025-06-21 07:30:32] File MIME type: application/pdf
+[2025-06-21 07:30:32] Attempting to move uploaded file to: uploads/6856437827200_Mamtaj_Yeasmin__539_merged.pdf
+[2025-06-21 07:30:32] File uploaded successfully: uploads/6856437827200_Mamtaj_Yeasmin__539_merged.pdf
+[2025-06-21 07:30:32] Binding parameters for SQL insert: Array
+(
+    [userId] => 26
+    [caption] => resume
+    [fileUrl] => uploads/6856437827200_Mamtaj_Yeasmin__539_merged.pdf
+    [fileType] => application/pdf
+)
+
+[2025-06-21 07:30:32] Post created successfully: Array
+(
+    [postId] => 51
+)
+
+[2025-06-21 07:31:11] Upload attempt by user: 26
+[2025-06-21 07:31:11] Post submission data: Array
+(
+    [userId] => 26
+    [caption] => Resume
+    [FILES] => 1
+)
+
+[2025-06-21 07:31:11] Files data: Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => BWU_BCA_22_539_MamtajYeasmin.pdf
+                )
+
+            [full_path] => Array
+                (
+                    [0] => BWU_BCA_22_539_MamtajYeasmin.pdf
+                )
+
+            [type] => Array
+                (
+                    [0] => application/pdf
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\php2366.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 95199
+                )
+
+        )
+
+)
+
+[2025-06-21 07:31:11] Processing file from form submission: BWU_BCA_22_539_MamtajYeasmin.pdf
+[2025-06-21 07:31:11] Processing file upload: Array
+(
+    [name] => BWU_BCA_22_539_MamtajYeasmin.pdf
+    [type] => application/pdf
+    [size] => 95199
+)
+
+[2025-06-21 07:31:11] File MIME type: application/pdf
+[2025-06-21 07:31:11] Attempting to move uploaded file to: uploads/6856439f95144_BWU_BCA_22_539_MamtajYeasmin.pdf
+[2025-06-21 07:31:11] File uploaded successfully: uploads/6856439f95144_BWU_BCA_22_539_MamtajYeasmin.pdf
+[2025-06-21 07:31:11] Binding parameters for SQL insert: Array
+(
+    [userId] => 26
+    [caption] => Resume
+    [fileUrl] => uploads/6856439f95144_BWU_BCA_22_539_MamtajYeasmin.pdf
+    [fileType] => application/pdf
+)
+
+[2025-06-21 07:31:11] Post created successfully: Array
+(
+    [postId] => 52
+)
+
+[2025-06-21 07:31:48] Upload attempt by user: 26
+[2025-06-21 07:31:48] Post submission data: Array
+(
+    [userId] => 26
+    [caption] => Today International Yoga day
+    [FILES] => 1
+)
+
+[2025-06-21 07:31:48] Files data: Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => 
+                )
+
+            [full_path] => Array
+                (
+                    [0] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 0
+                )
+
+        )
+
+)
+
+[2025-06-21 07:31:48] No file uploaded, creating text-only post
+[2025-06-21 07:31:48] Binding parameters for SQL insert: Array
+(
+    [userId] => 26
+    [caption] => Today International Yoga day
+    [fileUrl] => 
+    [fileType] => 
+)
+
+[2025-06-21 07:31:48] Post created successfully: Array
+(
+    [postId] => 53
+)
+
+[2025-06-21 07:34:39] Upload attempt by user: 26
+[2025-06-21 07:34:39] Post submission data: Array
+(
+    [userId] => 26
+    [caption] => Job Hiring Post
+    [FILES] => 1
+)
+
+[2025-06-21 07:34:39] Files data: Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => Grameya-jobs.png
+                )
+
+            [full_path] => Array
+                (
+                    [0] => Grameya-jobs.png
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\php5110.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 490869
+                )
+
+        )
+
+)
+
+[2025-06-21 07:34:39] Processing file from form submission: Grameya-jobs.png
+[2025-06-21 07:34:39] Processing file upload: Array
+(
+    [name] => Grameya-jobs.png
+    [type] => image/png
+    [size] => 490869
+)
+
+[2025-06-21 07:34:39] File MIME type: image/png
+[2025-06-21 07:34:39] Attempting to move uploaded file to: uploads/6856446fd5d7f_Grameya-jobs.png
+[2025-06-21 07:34:39] File uploaded successfully: uploads/6856446fd5d7f_Grameya-jobs.png
+[2025-06-21 07:34:39] Binding parameters for SQL insert: Array
+(
+    [userId] => 26
+    [caption] => Job Hiring Post
+    [fileUrl] => uploads/6856446fd5d7f_Grameya-jobs.png
+    [fileType] => image/png
+)
+
+[2025-06-21 07:34:39] Post created successfully: Array
+(
+    [postId] => 54
+)
+
+[2025-06-21 08:12:33] Upload attempt by user: 31
+[2025-06-21 08:12:33] Post submission data: Array
+(
+    [userId] => 31
+    [caption] => Today International Yoga Day
+    [FILES] => 1
+)
+
+[2025-06-21 08:12:33] Files data: Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => International_Yoga_Day_2025.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => International_Yoga_Day_2025.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\php2F7.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 58602
+                )
+
+        )
+
+)
+
+[2025-06-21 08:12:33] Processing file from form submission: International_Yoga_Day_2025.jpg
+[2025-06-21 08:12:33] Processing file upload: Array
+(
+    [name] => International_Yoga_Day_2025.jpg
+    [type] => image/jpeg
+    [size] => 58602
+)
+
+[2025-06-21 08:12:33] File MIME type: image/webp
+[2025-06-21 08:12:33] Attempting to move uploaded file to: uploads/68564d519b3cc_International_Yoga_Day_2025.jpg
+[2025-06-21 08:12:33] File uploaded successfully: uploads/68564d519b3cc_International_Yoga_Day_2025.jpg
+[2025-06-21 08:12:33] Binding parameters for SQL insert: Array
+(
+    [userId] => 31
+    [caption] => Today International Yoga Day
+    [fileUrl] => uploads/68564d519b3cc_International_Yoga_Day_2025.jpg
+    [fileType] => image/webp
+)
+
+[2025-06-21 08:12:33] Post created successfully: Array
+(
+    [postId] => 55
+)
+
+[2025-06-21 17:26:45] Upload attempt by user: 30
+[2025-06-21 17:26:45] Post submission data: Array
+(
+    [userId] => 30
+    [caption] => Happy International Yoga Day
+    [FILES] => 1
+)
+
+[2025-06-21 17:26:45] Files data: Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => International_Yoga_Day_2025.jpg
+                )
+
+            [full_path] => Array
+                (
+                    [0] => International_Yoga_Day_2025.jpg
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\php64E7.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 58602
+                )
+
+        )
+
+)
+
+[2025-06-21 17:26:45] Processing file from form submission: International_Yoga_Day_2025.jpg
+[2025-06-21 17:26:45] Processing file upload: Array
+(
+    [name] => International_Yoga_Day_2025.jpg
+    [type] => image/jpeg
+    [size] => 58602
+)
+
+[2025-06-21 17:26:45] File MIME type: image/webp
+[2025-06-21 17:26:45] Attempting to move uploaded file to: uploads/6856cf358a5e9_International_Yoga_Day_2025.jpg
+[2025-06-21 17:26:45] File uploaded successfully: uploads/6856cf358a5e9_International_Yoga_Day_2025.jpg
+[2025-06-21 17:26:45] Binding parameters for SQL insert: Array
+(
+    [userId] => 30
+    [caption] => Happy International Yoga Day
+    [fileUrl] => uploads/6856cf358a5e9_International_Yoga_Day_2025.jpg
+    [fileType] => image/webp
+)
+
+[2025-06-21 17:26:45] Post created successfully: Array
+(
+    [postId] => 56
+)
+
